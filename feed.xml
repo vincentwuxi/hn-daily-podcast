@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HN每日精选</title>
+    <link>https://vincentwuxi.github.io/hn-daily-podcast/</link>
+    <language>zh-cn</language>
+    <description>每天精选 Hacker News 最高热度帖子，中文双人对谈深度解读。技术趋势、创业故事、工程师文化，一期听懂 HN 今天在聊什么。</description>
+    <itunes:author>小灵通</itunes:author>
+    <itunes:summary>每天精选 Hacker News 最高热度帖子，中文双人对谈深度解读。技术趋势、创业故事、工程师文化，一期听懂 HN 今天在聊什么。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>小灵通</itunes:name>
+      <itunes:email>vincent@aivolo.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://vincentwuxi.github.io/hn-daily-podcast/cover.png"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Sun, 11 Oct 2026 12:42:03 +0000</lastBuildDate>
+    <item>
+      <title>HN每日精选 2026-10-11</title>
+      <description>HN每日精选 2026-10-11：Hacker News 当日热帖中文解读。</description>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://vincentwuxi.github.io/hn-daily-podcast/episodes/HN%E6%AF%8F%E6%97%A5%E7%B2%BE%E9%80%89-2026-10-11.mp3" length="4975293" type="audio/mpeg"/>
+      <guid isPermaLink="false">hn-daily-2026-10-11</guid>
+      <itunes:author>小灵通</itunes:author>
+      <itunes:summary>HN每日精选 2026-10-11：Hacker News 当日热帖中文解读。</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>HN每日精选 2026-10-10</title>
+      <description>HN每日精选 2026-10-10：Hacker News 当日热帖中文解读。</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://vincentwuxi.github.io/hn-daily-podcast/episodes/HN%E6%AF%8F%E6%97%A5%E7%B2%BE%E9%80%89-2026-10-10.mp3" length="7189677" type="audio/mpeg"/>
+      <guid isPermaLink="false">hn-daily-2026-10-10</guid>
+      <itunes:author>小灵通</itunes:author>
+      <itunes:summary>HN每日精选 2026-10-10：Hacker News 当日热帖中文解读。</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
