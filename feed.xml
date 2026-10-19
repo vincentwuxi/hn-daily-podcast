@@ -19,7 +19,18 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 18 Oct 2026 23:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:58:30 +0000</lastBuildDate>
+    <item>
+      <title>HN每日精选 2026-10-20</title>
+      <description>HN每日精选 2026-10-20：Hacker News 当日热帖中文解读。</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://vincentwuxi.github.io/hn-daily-podcast/episodes/HN%E6%AF%8F%E6%97%A5%E7%B2%BE%E9%80%89-2026-10-20.mp3" length="4748709" type="audio/mpeg"/>
+      <guid isPermaLink="false">hn-daily-2026-10-20</guid>
+      <itunes:author>小灵通</itunes:author>
+      <itunes:summary>HN每日精选 2026-10-20：Hacker News 当日热帖中文解读。</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>481</itunes:duration>
+    </item>
     <item>
       <title>HN每日精选 2026-10-19</title>
       <description>HN每日精选 2026-10-19：Hacker News 当日热帖中文解读。</description>
